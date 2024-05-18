@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "837592007179",
+    "project_id": "chatappreactnativedrl",
+    "storage_bucket": "chatappreactnativedrl.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837592007179:android:1f76188d5b018fcf45fd0e",
+        "android_client_info": {
+          "package_name": "com.drlreactnative"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU5sqM1t0hrvF6CMRemOH3BqsYU2XcgNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
